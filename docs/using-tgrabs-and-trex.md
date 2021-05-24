@@ -2,7 +2,21 @@
 
 ## Table of Contents
 
-[TOC]
+* [Using TGrabs and TRex on Windows](#using-tgrabs-and-trex-on-windows)
+   * [Table of Contents](#table-of-contents)
+   * [Installing TGrabs/TRex](#installing-tgrabstrex)
+   * [Using TGrabs/TRex](#using-tgrabstrex)
+      * [Using the Graphical Interface](#using-the-graphical-interface)
+         * [Converting Raw Videos with TGrabs](#converting-raw-videos-with-tgrabs)
+         * [Tracking Processed Videos with TRex](#tracking-processed-videos-with-trex)
+      * [Using the Command Line](#using-the-command-line)
+         * [Converting Raw Videos with TGrabs](#converting-raw-videos-with-tgrabs-1)
+         * [Tracking Processed Videos with TRex](#tracking-processed-videos-with-trex-1)
+   * [Potential Problems and Fixes](#potential-problems-and-fixes)
+   * [Commonly Used Parameters](#commonly-used-parameters)
+      * [TGrabs](#tgrabs)
+      * [TRex](#trex)
+   * [Resources for TGrabs/TRex Documentation](#resources-for-tgrabstrex-documentation)
 
 ## Installing TGrabs/TRex
 
